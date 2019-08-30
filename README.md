@@ -32,6 +32,7 @@ A trademark describes a symbol, logo, sound, color, design or other device that 
 - **TM** : Temporary trademark for product
 - **SM** : Temporary trademark for service
 - **R** : Registered trademark
+- i am nikitha
 
 ![](https://ebaqdesign.com/wp-content/uploads/2018/04/trademark-symbols.png)
 
